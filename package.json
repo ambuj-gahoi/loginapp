@@ -1,0 +1,31 @@
+{
+  "name": "loginapp",
+  "version": "0.0.0",
+  "description": "Login or Signin\u001b[D\u001b[D\u001b[Cin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ambuj",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect": "^3.6.5",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.16.2",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validation": "^1.0.2",
+    "express-validator": "*",
+    "joi": "^13.0.2",
+    "mongodb": "*",
+    "mongoose": "^5.0.0-rc1",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  },
+  "devDependencies": {}
+}
